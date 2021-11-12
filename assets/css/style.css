@@ -3246,3 +3246,17 @@ p.form-message.success, p.form-message.error {
     background-color: #0067f4; }
 
 /*# sourceMappingURL=style.css.map */
+
+
+.logo{
+  height: 60px;
+}
+
+.single-portfolio .portfolio-image img {
+  width: 90%;
+  padding: 10px 0 10px 0;
+}
+
+.single-portfolio .portfolio-image{
+  text-align: center;
+}
